@@ -9,6 +9,6 @@ This project requires a proficient understanding of front-end technologies such 
 
 Developers familiar with Visual Studio Code as a text editor will have an advantage in working on this project. A comprehensive understanding of JavaScript error types, debugging techniques, and proper syntax usage of let, const, and var are essential to success. The application also utilizes array manipulation techniques such as find(), filter(), map(), some(), every(), reduce(), and sort() to handle and display data.
 
-##Thank you
+## Thank you
 
 We encourage all developers to contribute to the project by opening an issue or submitting a pull request. We are dedicated to creating the best possible experience for all users and are always open to suggestions and improvements.
